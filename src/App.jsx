@@ -10,7 +10,7 @@ function App() {
     category: "growth",
   });
   const [color, setColor] = useState("#F39BA3");
-  
+
   document.body.style = `background: ${color};`;
 
   const displayQuote = async () => {
@@ -63,7 +63,15 @@ function App() {
           </a>
         </div>
       </main>
-      <footer>&copy; Nzube Ifechukwu</footer>
+      <footer>
+        <a
+          href="https://github.com/nzubeifechukwu/quote-generator"
+          target="_blank"
+          rel="noreferrer"
+        >
+          &copy; Nzube Ifechukwu
+        </a>
+      </footer>
     </>
   );
 }
