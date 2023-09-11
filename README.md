@@ -1,8 +1,33 @@
-# React + Vite
+# Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quote generator is a web app that generates a new quote on button click. There is also a tweet button for sharing the quote on Twitter.
 
-Currently, two official plugins are available:
+The app is [live](https://nzubeifechukwu-quote-generator.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Quote generator is a React app. To install and run it locally, clone the repo and run:
+
+```
+cd quote-generator
+npm install
+npm run dev
+```
+
+## Inspiration
+
+The idea for this project was obtained from @freeCodeCamp's [Frontend Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine).
+
+## Acknowledgement
+
+For the quotes, I used the [API Ninjas's Quotes API](https://api-ninjas.com/api/quotes).
+
+I'm grateful for this [React 18 course](https://www.youtube.com/watch?v=2-crBg6wpp0) by [John Smilga](https://twitter.com/john_smilga).
+
+## Author
+
+**Nzube Ifechukwu**
+
+- [LinkedIn](https://linkedin.com/in/nzubeifechukwu)
+- [Twitter](https://twitter.com/NzubeIfechukwu)
+- [Website](https://nzubeifechukwu.github.io/portfolio/)
