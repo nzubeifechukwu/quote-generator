@@ -50,7 +50,7 @@ function App() {
             style={{ backgroundColor: color }}
             className="new-quote"
           >
-            New quote
+            new quote
           </button>
           <a
             className="tweet-quote"
