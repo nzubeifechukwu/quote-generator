@@ -1,8 +1,8 @@
 # Quote Generator
 
-Quote generator is a web app that generates a new quote on button click. There is also a tweet button for sharing the quote on Twitter.
+Quote generator is a web app that generates a new quote on each button click. There is also a tweet button for sharing the quote on Twitter.
 
-The app is [live](https://nzubeifechukwu-quote-generator.netlify.app/).
+The app is [live here](https://nzubeifechukwu-quote-generator.netlify.app/).
 
 ## Installation
 
