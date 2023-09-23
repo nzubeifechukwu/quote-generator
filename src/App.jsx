@@ -64,13 +64,16 @@ function App() {
         </div>
       </main>
       <footer>
-        <a
-          href="https://github.com/nzubeifechukwu/quote-generator"
-          target="_blank"
-          rel="noreferrer"
-        >
-          &copy; Nzube Ifechukwu
-        </a>
+        <p>
+          <a
+            href="https://github.com/nzubeifechukwu/quote-generator"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub repo
+          </a>
+        </p>
+        <p>&copy; Nzube Ifechukwu</p>
       </footer>
     </>
   );

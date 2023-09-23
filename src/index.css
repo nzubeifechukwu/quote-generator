@@ -71,11 +71,19 @@ footer {
   color: white;
   margin-bottom: 2%;
   font-size: 0.8rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-self: normal;
 }
 
 footer a {
   text-decoration: none;
   color: inherit;
+}
+
+footer a:hover {
+  font-size: 1.1rem;
+  transition: font-size 0.2s ease-in-out;
 }
 
 @media (min-width: 650px) {
