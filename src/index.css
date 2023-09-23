@@ -70,10 +70,11 @@ body {
 footer {
   color: white;
   margin-bottom: 2%;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   display: flex;
   justify-content: space-evenly;
   align-self: normal;
+  text-transform: uppercase;
 }
 
 footer a {
@@ -82,7 +83,7 @@ footer a {
 }
 
 footer a:hover {
-  font-size: 1.1rem;
+  font-size: 0.65rem;
   transition: font-size 0.2s ease-in-out;
 }
 
@@ -99,8 +100,15 @@ footer a:hover {
     font-size: 1.5rem;
   }
 
-  .new-quote,
-  footer {
+  .new-quote {
     font-size: 1rem;
+  }
+
+  footer {
+    font-size: 0.8rem;
+  }
+
+  footer a:hover {
+    font-size: 0.85rem;
   }
 }
