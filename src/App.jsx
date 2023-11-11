@@ -70,10 +70,9 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            GitHub repo
+            &copy; Nzube Ifechukwu
           </a>
         </p>
-        <p>&copy; Nzube Ifechukwu</p>
       </footer>
     </>
   );
